@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境变量（重要！不能泄露 API key）
+.env
+*.env
+
+# 数据文件（太大或可再生）
+data/chroma/
+*.pdf
+*.docx
+*.zip
+
+# 日志和临时文件
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
