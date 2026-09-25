@@ -22,10 +22,13 @@ conda activate citrus
 cd src
 python build_kb.py  # 构建知识库
 python app.py       # 启动 Web 界面
+```
+
 访问 http://localhost:7860
 
 ## 项目结构
 
+```
 citrus-qa/
 ├── data/raw/          # 29篇文献
 ├── src/               # 核心代码
@@ -33,3 +36,4 @@ citrus-qa/
 │   ├── ask.py         # 终端问答
 │   └── app.py         # Web 界面
 └── requirements.txt   # 依赖清单
+```
