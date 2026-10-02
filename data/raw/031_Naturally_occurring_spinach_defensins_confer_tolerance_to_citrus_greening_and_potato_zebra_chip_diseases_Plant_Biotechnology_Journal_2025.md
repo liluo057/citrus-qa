@@ -1,0 +1,6 @@
+菠菜防御素赋予柑橘黄龙病和马铃薯斑马 chip 病耐受性
+标题：Naturally occurring spinach defensins confer tolerance to citrus greening and potato zebra chip diseases
+来源：《Plant Biotechnology Journal》（植物生物技术杂志），2025年2月27日在线发表，作者：Carmen Padilla、Sonia Irigoyen、Kranthi K. Mandadi（德州农工大学）等
+链接：https://doi.org/10.1111/pbi.14571
+摘要：柑橘黄龙病（Huanglongbing, HLB）和马铃薯斑马 chip 病（Zebra chip, ZC）是由韧皮部限制性、不可培养的细菌 Candidatus Liberibacter asiaticus（CLas）和 Ca. Liberibacter solanacearum（CLso）引起的毁灭性作物病害，分别由柑橘木虱和马铃薯木虱传播。防御素（defensins）是植物、动物和昆虫先天免疫系统中重要的短肽（约40-50个氨基酸），具有广谱抗菌活性。本研究评估了在柑橘和马铃薯中过表达菠菜防御素（Spinacia oleracea antimicrobial peptides, SoAMPs）能否赋予对 Liberibacter 病害的耐受性。研究团队利用柑橘衰退病毒（Citrus tristeza virus, CTV）表达载体（T36株系，无症状、非转基因递送系统），将 SoAMP1 和 SoAMP2 基因导入柑橘树（Hamlin品种/Carrizo砧木），在佛罗里达田间自然高病害压力下进行随机区组试验（n=59-60棵）。结果显示，表达 SoAMPs 的柑橘树对黄龙病表现出显著耐受性，树势和产量得到改善，且 CTV 载体稳定表达、不引起额外症状。该研究为黄龙病和斑马 chip 病的绿色防控提供了新型生物疗法策略。
+相关新闻稿：《EurekAlert!》2026年8月19日新闻稿，菠菜防御素疗法：该疗法基于菠菜中天然存在的抗菌肽防御素（defensin），利用一种天然非传播性柑橘衰退病毒（CTV） 作为载体，将其重编程为促使柑橘树持续产生防御素肽。该技术不改变树木基因组，通过嫁接方式将携带防御素基因的CTV导入树体，在韧皮部中持续表达，直接作用于黄龙病菌。2026年8月，美国环保署（EPA）授予该产品无条件注册，允许其商业化销售且无残留限量要求。据研究数据，单次处理后，受感染商业果园的果实产量提升高达50%。产品预计于2026年底通过佛罗里达CRAFT项目向种植者开放。该技术历经超过15年的多机构合作研发，被视为“柑橘树的免疫接种”策略。
